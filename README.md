@@ -26,7 +26,7 @@ O tema escolhido foi:
 
 As seguintes fontes foram utilizadas no NotebookLM:
 
-1. Livro/Artigo: Gestão da Informação (link)
+1. Livro/Artigo: Gestão da Informação ([link](https://portalantigo.ipea.gov.br/agencia/images/stories/PDFs/livros/livros/220412_lv_o_que_informa_miolo_cap01.pdf))
 2. Artigo científico (link)
 3. PDF institucional (link)
 4. Relatório técnico (link)
@@ -39,6 +39,7 @@ As seguintes fontes foram utilizadas no NotebookLM:
 
 ### 🔹 Exemplos de prompts utilizados:
 
+- "Como o gerenciamento do fluxo de informação apoia as decisões?"
 - "Explique o conceito de Gestão da Informação com foco em organizações públicas"
 - "Resuma este documento destacando pontos-chave"
 - "Quais são os gargalos no fluxo informacional?"
@@ -73,9 +74,9 @@ Gestão da Informação envolve coleta, processamento, armazenamento e uso estra
 
 ### 🔁 Prompts Reutilizáveis
 
-- "Explique [tema] de forma simples e aplicada"
+- "Explique Gestão da Informação aplicada à tomada de decisão em organizações públicas de forma simples e aplicada"
 - "Resuma este conteúdo em tópicos"
-- "Crie exemplos práticos sobre [tema]"
+- "Crie exemplos práticos sobre Gestão da Informação aplicada à tomada de decisão em organizações públicas"
 
 ---
 
