@@ -31,7 +31,7 @@ As seguintes fontes foram utilizadas no NotebookLM:
 
  Arquivos disponíveis na pasta /fontes: 
  [PDF Base](ghafreire,+Art-08-Gestão+da+informação+na+perspectiva+da+satisfação+do+usuário+em+organizações+públicas+.pdf)
- [Artigo Científico](deciowbj,+Gerente+da+revista,+VITAL (2).pdf)
+[Artigo Científico]([deciowbj,+Gerente+da+revista,+VITAL (2).pdf](https://github.com/abilenes/guiadeaprendizado-notebooklm/blob/49aa1f758756005a221a686e7e4503223b6911dc/deciowbj%2C%2BGerente%2Bda%2Brevista%2C%2BVITAL%20(2).pdf))
 
 ---
 
