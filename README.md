@@ -30,7 +30,7 @@ As seguintes fontes foram utilizadas no NotebookLM:
 4. Relatório técnico ([link](https://www.gov.br/governodigital/pt-br/governanca-de-dados/ap_bid-m_lafuente_governanca-dados-set-2020.pdf) / [link](https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/decisao-baseada-em-dados))
 
  Arquivos disponíveis na pasta /fontes: 
- [PDF Base](.ghafreire,+Art-08-Gestão+da+informação+na+perspectiva+da+satisdação+do+usuário+em+organizações+públicas+.pdf)
+ [PDF Base](/fontes)
 
 ---
 
